@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kyle Welch</title>
+    <link>http://kylewelch.me/posts/</link>
+    <description>Recent content in Posts on Kyle Welch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 14 Nov 2017 22:50:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://kylewelch.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://kylewelch.me/posts/my-first-post/</link>
+      <pubDate>Tue, 14 Nov 2017 22:50:25 +0000</pubDate>
+      
+      <guid>http://kylewelch.me/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
