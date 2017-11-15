@@ -1,0 +1,4 @@
+baseURL = "http://kylewelch.me/"
+languageCode = "en-uk"
+title = "Kyle Welch"
+theme = "ananke"
