@@ -1,0 +1,8 @@
+{
+  "name": "kyle",
+  "version": "1.0.0",
+  "description": "Theme for kylewelch.me",
+  "main": "main.js",
+  "author": "Kyle Welch",
+  "license": "MIT"
+}
