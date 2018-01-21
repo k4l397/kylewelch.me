@@ -4,5 +4,15 @@
   "description": "Theme for kylewelch.me",
   "main": "main.js",
   "author": "Kyle Welch",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.9",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.6",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0"
+  }
 }
