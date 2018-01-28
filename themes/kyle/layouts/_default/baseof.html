@@ -10,9 +10,16 @@
     <title>Document</title>
 </head>
 <body>
-    {{ block "main" . }}
+    <header>
+        {{ block "nav" . }}
+            {{ partial "site-header.html" . }}
+        {{ end }}
+    </header>
+    <main>
+        {{ block "main" . }}
 
-    {{ end }}
+        {{ end }}
+    </main>
     <script src="./dist/bundle.js"></script>
 </body>
 </html>
